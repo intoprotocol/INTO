@@ -1,7 +1,5 @@
 # INTO Protocol / INTACT Layer
 
-[中文 README](README.zh-CN.md)
-
 INTO Protocol is a Filecoin-backed infrastructure protocol for AI-generated work integrity.
 
 This repository contains the Phase 1 MVP: **INTACT Layer**, a lightweight proof, trace, evidence backup, and verification layer for AI Agent workflows.
